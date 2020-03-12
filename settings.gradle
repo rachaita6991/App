@@ -1,0 +1,2 @@
+rootProject.name='TLS_Mobile'
+include ':app'
